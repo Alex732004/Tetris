@@ -5,10 +5,10 @@ This program was completed in assembly code and done with a partner. The code ut
 
 Some features include: 
 1. Gravity
-2. Increase in gravity (tetrominoes fall faster) over time based on the completed number of rows
+2. Increase in gravity (tetrominoes fall faster) over time, based on the completed number of rows
 3. Panel on the side with the next tetrominoes that will appear
 4. Full set of tetrominoes
-5. Start with 5 unfinished rows
+5. Start with 5 unfinished rows (as shown in the third picture)
 
 <img width="267" alt="ss1" src="https://github.com/Alex732004/Tetris/assets/144287521/2031c6b3-c9fc-4d72-a3a6-584be6b7df43">
 <img width="258" alt="ss2" src="https://github.com/Alex732004/Tetris/assets/144287521/f9590a20-1345-4c5e-aaed-122852bcb455">
